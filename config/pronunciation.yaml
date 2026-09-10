@@ -1,0 +1,54 @@
+# ==============================================================================
+# MACHLOCK AVIATION PRONUNCIATION & PHONETIC FIXTURES
+# Configurable substitution dictionary for Rime synthesis
+# ==============================================================================
+
+version: "1.0"
+description: "Aviation procedural phonetics and standard ICAO phraseology"
+
+# Phonetic letter/digit substitutions
+phonetics:
+  "0": "ZERO"
+  "1": "WUN"
+  "2": "TOO"
+  "3": "TREE"
+  "4": "FOW-ER"
+  "5": "FIFE"
+  "6": "SIX"
+  "7": "SEV-EN"
+  "8": "AIT"
+  "9": "NINER"
+  "10": "WUN ZERO"
+
+# Aviation standard acronyms and terms
+aviation_terms:
+  KLAX: "K-L-A-X Los Angeles"
+  KJFK: "K-J-F-K Kennedy"
+  KSFO: "K-S-F-O San Francisco"
+  EGLL: "E-G-L-L Heathrow"
+  FL350: "Flight Level Three Five Zero"
+  FL280: "Flight Level Two Eight Zero"
+  FL100: "Flight Level One Zero Zero"
+  QNH: "Q-N-H Altimeter Setting"
+  V1: "V-1 Decision Speed"
+  VR: "V-R Rotate Speed"
+  V2: "V-2 Safety Speed"
+  TCAS: "TEE-CAS Traffic Collision Avoidance System"
+  APU: "A-P-U Auxiliary Power Unit"
+  XPDR: "Transponder"
+  ILS: "I-L-S Instrument Landing System"
+  FD: "Flight Director"
+  ALT: "Altitude"
+  HDG: "Heading"
+  SPD: "Speed"
+  NAV: "Navigation"
+  COMM: "Communication"
+
+# Standard procedural commands
+phraseology:
+  "BREAK BREAK": "BREAK BREAK"
+  "MAYDAY": "MAYDAY MAYDAY MAYDAY"
+  "PAN PAN": "PAN PAN PAN PAN PAN PAN"
+  "ROGER": "ROGER"
+  "WILCO": "WILCO"
+  "STANDBY": "STANDBY"
